@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+catboost_info/
+
+# generated outputs
+*.eps
+*.png
+*.pdf
+fastshap/models/
+fastshap_torch/
